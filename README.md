@@ -1,5 +1,3 @@
-Here's a professional and impressive `README.md` file that highlights your AI Doctor Chatbot project suite effectively:
-
 ---
 
 # 🧠 AI Doctor Chatbot Suite | Powered by LLMs & Streamlit
