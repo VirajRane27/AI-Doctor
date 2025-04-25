@@ -71,7 +71,9 @@ doctor_links = {
     "General Physician 👨‍⚕️": "https://ai-doctor-general-viraj27.streamlit.app/",
     "Dentist 🦷": "https://ai-chatbot-dentist-viraj27.streamlit.app/",
     "Gynaecologist 👩‍⚕️": "https://ai-doctor-gyno-viraj27.streamlit.app/",
-    "Orthopedic 🦴": "https://ai-doctor-orthopedic-viraj27.streamlit.app/"
+    "Orthopedic 🦴": "https://ai-doctor-orthopedic-viraj27.streamlit.app/",
+    "Dermatologist 🧴": "https://ai-doctor-dermatologist-viraj27.streamlit.app/",
+    "Neurologist 🧠": "https://ai-doctor-neurologist-viraj27.streamlit.app/"
 }
 
 # Buttons
